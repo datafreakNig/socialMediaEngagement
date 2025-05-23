@@ -6,7 +6,7 @@ This phase was instrumental in uncovering foundational insights and informing su
 
 ---
 
-### 🧮 1. Distribution of the Target Variable
+### 🧮 1. Instagram Social Media Engagement
 
 ![Distribution of Target Variable](Instagram.png)
 
@@ -14,7 +14,7 @@ The histogram above provides a comprehensive view of how the target variable is 
 
 ---
 
-### 📈 2. Temporal Trends and Patterns
+### 📈 2. LinkedIn Social Media Engagement
 
 ![Temporal Analysis](LinkedIn.png)
 
@@ -22,7 +22,7 @@ This time-series line chart illustrates the temporal behavior of transaction fre
 
 ---
 
-### 🧭 3. Correlation Heatmap of Key Variables
+### 🧭 3. Facebook Social Media Engagement
 
 ![Correlation Heatmap](facebook.png)
 
@@ -30,7 +30,7 @@ The correlation heatmap visually presents the strength and direction of relation
 
 ---
 
-### 🧱 4. Category-Wise Feature Summary
+### 🧱 4. Twitter Social Media Engagement
 
 ![Categorical Feature Breakdown](twitter.png)
 
