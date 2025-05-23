@@ -10,7 +10,9 @@ This phase was instrumental in uncovering foundational insights and informing su
 
 ![Distribution of Target Variable](Instagram.png)
 
-The histogram above provides a comprehensive view of how the target variable is distributed across the dataset. This helps in understanding class imbalance, which is critical for designing effective predictive models. As seen, there is a significant skew toward one class, indicating the need for appropriate resampling techniques or performance metrics during modeling.
+- The histogram above provides a comprehensive
+- view of how the target variable is distributed
+- across the dataset. This helps in understanding class imbalance, which is critical for designing effective predictive models. As seen, there is a significant skew toward one class, indicating the need for appropriate resampling techniques or performance metrics during modeling.
 
 ---
 
